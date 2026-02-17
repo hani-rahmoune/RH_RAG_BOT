@@ -96,7 +96,7 @@ Le prompt impose les contraintes suivantes :
 - SentenceTransformers  
 - FAISS  
 - NumPy  
-- OpenAI API (optionnel)  
+- OpenAI API
 - Jupyter Notebooks  
 
 ## Sécurité et bonnes pratiques
@@ -105,14 +105,6 @@ Le prompt impose les contraintes suivantes :
 - Les réponses sont strictement conditionnées au contexte extrait  
 - Les artefacts d’index sont séparés des documents sources  
 - Push protection GitHub activée  
-
-## Perspectives d’amélioration
-
-- Interface web (Streamlit ou React)  
-- RAG hybride (BM25 + embeddings)  
-- Filtrage par type de document  
-- Déploiement Docker  
-- Support multi-utilisateurs  
 
 ## Conclusion
 
