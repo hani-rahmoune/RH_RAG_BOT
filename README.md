@@ -104,7 +104,6 @@ Le prompt impose les contraintes suivantes :
 - Les clés API ne sont jamais versionnées  
 - Les réponses sont strictement conditionnées au contexte extrait  
 - Les artefacts d’index sont séparés des documents sources  
-- Push protection GitHub activée  
 
 ## Conclusion
 
