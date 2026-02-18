@@ -6,8 +6,6 @@
 #   pip install ngrok
 
 import os
-os.environ["ngrok"] ="key"
-os.environ["OPENAI_API_KEY"] = "ur key "
 
 # !pip -q install flask flask-cors pyngrok faiss-cpu sentence-transformers openai
 
